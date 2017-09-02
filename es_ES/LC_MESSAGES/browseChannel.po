@@ -1,20 +1,20 @@
 msgid "UPPERTITLE"
-msgstr "Browse Channel"
+msgstr "Navegar por el canal"
 
 msgid "POST_FLIPNOTE"
-msgstr "Post Flipnote"
+msgstr "Publicar una Flipnote"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Siguiente"
 
 msgid "PREV"
-msgstr "Previous"
+msgstr "Anterior"
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "Página"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d de %d"
 
 msgid "SPINOFFS"
 msgstr "Spinoffs"
